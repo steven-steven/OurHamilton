@@ -5,8 +5,16 @@ body{
 h1{
   color: green;
   text-align:center;
+  margin: 20px;
 }
-
+h2{
+  margin:20px;
+}
+p
+{
+  margin: 20px;
+}
+    
 /*Nav Bar*/
 ul {
     float: center;
