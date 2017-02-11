@@ -3,7 +3,7 @@
 OUR FIRST HACKATHON (by Graeme Woods, Linnea Campbell, Steven, Abrar Ahsan)
 Our Site: http://graemewoods.me/ourhamilton/
 
-AIM: increase the participation and involvement of the people living in Hamilton, so they could volunteer in events and be part of the community. This was part of the 'OUR FUTURE HAMILTON' Challange which is hosted by the city of Hamilton.
+AIM: increase the participation and involvement of the people living in Hamilton, so they could volunteer in events and be part of the community. This was part of the 'OUR FUTURE HAMILTON' Challange which is hosted by the city of Hamilton (https://drive.google.com/file/d/0BwKho5uiRlLhVUxjQXQyQm1CeUk/view?usp=sharing).
 
 FEATURES:
 - RSS FEED from cbc news.com
